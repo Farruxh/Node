@@ -1,0 +1,1 @@
+In this mini project, I've learned the basics of React applications and how to create a Vite application. Moreover, I've learned about the famous web framework Express and gained knowledge in Node.js.
