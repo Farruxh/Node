@@ -22,4 +22,3 @@ This mini project was a fun way to get my feet wet with full-stack web developme
 - Fetched jokes from the backend to connect the frontend and backend.
 - Learned how to manage data and ensure everything works well together.
 
-This project was a great way to get a basic understanding of full-stack development and see how different technologies can come together to build a simple web application.
