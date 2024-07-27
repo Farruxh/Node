@@ -2,24 +2,24 @@
 
 ## Overview
 
-This mini project demonstrates my learning journey in creating a full-stack web application using React, Vite, Express, and Node.js.
+This mini project was a fun way to get my feet wet with full-stack web development using React, Vite, Express, and Node.js. The main aim was to learn about HTTP servers and see how easily React and Express can be used together.
 
 ## Frontend
 
-- **React:** Built the frontend using React, a popular JavaScript library for building user interfaces.
-- **Vite:** Utilized Vite for setting up the React application, benefiting from its fast development and build capabilities.
-- **Axios:** Used Axios to make API calls, facilitating communication between the frontend and backend.
-- **Proxy Configuration:** Configured a proxy in the development environment to handle backend requests seamlessly.
+- **React:** Played around with React to build a simple frontend and see how intuitive it is.
+- **Vite:** Tried out Vite for its quick setup and speedy development.
+- **Axios:** Used Axios to fetch data from the backend.
+- **Proxy Configuration:** Set up a proxy in the development environment to make backend requests work smoothly.
 
 ## Backend
 
-- **Express:** Developed the backend with Express, a robust web framework for Node.js.
-- **Node.js:** Gained knowledge in Node.js, which served as the runtime environment for the backend.
-- **Jokes Array:** Initialized a `jokes` array variable in the `index.js` file, containing three joke objects.
+- **Express:** Set up a basic backend using Express.
+- **Node.js:** Used Node.js to run the backend.
+- **Jokes Array:** Created a simple `jokes` array in the `index.js` file with three joke objects for fun.
 
 ## Connecting Frontend and Backend
 
-- Fetched jokes from the backend through a specific URL, integrating the two parts of the application.
-- Explored various functions and variables to handle data and ensure smooth communication between the frontend and backend.
+- Fetched jokes from the backend to connect the frontend and backend.
+- Learned how to manage data and ensure everything works well together.
 
-This project has provided a solid foundation in full-stack development, enhancing my understanding of how different technologies work together to create a complete web application.
+This project was a great way to get a basic understanding of full-stack development and see how different technologies can come together to build a simple web application.
